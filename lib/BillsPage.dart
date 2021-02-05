@@ -48,7 +48,7 @@ class _BillPageState extends State<BillPage> {
     this.loadSharedPrefs();
     twilioFlutter = TwilioFlutter(
         accountSid: 'AC75b98583d94173cdeb25eead1758371c',
-        authToken: 'a632bab51bdd1ad737803ceb574b9ee0',
+        authToken: 'e9f7a16257fd0ff61fe9bb30abc03e90',
         twilioNumber: '+15129692129');
     super.initState();
   }
